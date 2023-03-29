@@ -13,7 +13,7 @@ body {
 }
 
 #menu {/*Formatação do menu*/
-	background: #c5c5c5b2;
+	background: #8A2BE2;
 	/*border: 1px solid red; Borda sólida na div*/
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
@@ -21,9 +21,23 @@ body {
 #conteudo {
 	background: #c5c5b2;
 	padding: 10px;
-}
+	
+#sobre mim {
+	background: #9400D3;
+	padding: 10px;
 
-}
+#contatos {
+	background: #c5c5b2;
+	padding: 10px;
+	
+#pinturas {
+	background: #c5c5b2;
+	padding: 10px;
+	
+#imagens {
+	background: #c5c5b2;
+	padding: 10px;
+	
 #rodape {
 	text-align: center;
 	color: #FFFFFF;
